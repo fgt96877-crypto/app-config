@@ -1,8 +1,8 @@
 {
   "auto_model_cn": "agnes-2.0-flash",
   "auto_model_global": "agnes-2.0-flash",
-  "auto_key_cn": "sk-no2Fi7xEW5KK3zVeXRdSGEIaVXYWXVKvSfm1bTOdsD0w3BLp",
-  "auto_key_global": "sk-no2Fi7xEW5KK3zVeXRdSGEIaVXYWXVKvSfm1bTOdsD0w3BLp",
+  "auto_key_cn": "AB9EGgxaIAVYDzYjXD8oWxw6Ci8hEDozJiEHOjcuJCw/PxU7AAFeFSc7DQcnWBFfLTsD",
+  "auto_key_global": "AB9EGgxaIAVYDzYjXD8oWxw6Ci8hEDozJiEHOjcuJCw/PxU7AAFeFSc7DQcnWBFfLTsD",
   "auto_baseurl_cn": "https://apihub.agnes-ai.com/v1/chat/completions",
   "auto_baseurl_global": "https://apihub.agnes-ai.com/v1/chat/completions"
 }
